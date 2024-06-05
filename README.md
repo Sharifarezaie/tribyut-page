@@ -47,5 +47,5 @@ file:///C:/Users/Rezaie/Desktop/tribute_page/tribyut-page/index.html
 - CSS
 
 ## Author 👩‍💻
-Sharifa Rezai
+Sharifa Rezaie
 - Email: [example](sharifashaida82@gmail.com)
