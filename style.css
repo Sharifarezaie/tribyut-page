@@ -1,6 +1,10 @@
 #image {
-  max-width: 100%;
-  height: auto;
+  max-width: 150px;
+  height: 150px;
   margin: 0 auto;
   display: block;
+}
+
+#title {
+  text-align: center;
 }
